@@ -46,6 +46,4 @@ The server should now be fully functional and the information entered on the cli
 
 Client:
 
-Refer to the repository 'Practice-Log-client' for instructions on setting up the front end of the app.
-
-
+Refer to the repository 'Personal-Diary-client' for instructions on setting up the front end of the app.
