@@ -34,7 +34,7 @@ Under 'Select your driver and version', choose 'Node.js'
 
 Under 'Add your connection string into your application code', leave the 'Include full driver code example' box unchecked.
 
-index.js already contains the the standard information for your connection string. The .env file is where the unique parts of your connection string are included.
+index.js already contains the the standard information for your connection string in the variable 'CONNECTION_URL'. The .env file is where the unique parts of your connection string are included.
 
 Under DB_STRING, include the string following your cluster name in the connection string. Once this information is recorded, select 'close'.
 
