@@ -8,7 +8,7 @@ To store data, you will have to create a MongoDB cluster and connect it to the a
 
 You will change the .txt file to a .env file and fill in the info for DB_USERNAME, DB_PASSWORD, DB_CLUSTER, and DB_STRING. To get this info, you'll have to create your MongoDB cluster.
 
-Follow the steps below to create your MongoDB cluster.
+Follow the steps below to create your MongoDB cluster:
 
 First create an account at the following, 'https://www.mongodb.com/cloud/atlas/register'
 
