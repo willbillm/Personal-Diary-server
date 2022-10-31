@@ -4,9 +4,9 @@ In the terminal, run the command 'npm install' to install necessary dependencies
 
 MongoDB setup:
 
-To store data, you will have to create a MongoDB database and connect it to the app.
+To store data, you will have to create a MongoDB cluster and connect it to the app.
 
-You will change the .txt file to a .env file and fill in the info for DB_USERNAME, DB_PASSWORD, DB_CLUSTER, and DB_STRING. To get this info, you'll have to create a MongoDB cluster.
+You will change the .txt file to a .env file and fill in the info for DB_USERNAME, DB_PASSWORD, DB_CLUSTER, and DB_STRING. To get this info, you'll have to create your MongoDB cluster.
 
 Follow the steps below to create your MongoDB cluster.
 
