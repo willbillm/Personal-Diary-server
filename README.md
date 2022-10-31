@@ -2,7 +2,7 @@ Getting started:
 
 In the terminal, run the command 'npm install' to install necessary dependencies.
 
-Database:
+MongoDB setup:
 
 To store data, you will have to create a MongoDB database and connect it to the app.
 
